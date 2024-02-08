@@ -17,8 +17,7 @@ int main() {
          cout<<b<<"is greatest";
     }
     else {
-                 cout<<c<<"is greatest";
+                 cout<<" gretest";
     }
-
-return 0;
+    return 0;
 }
