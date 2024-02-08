@@ -1,2 +1,2 @@
-i'm taking a challenge of 30 days of coding <br>
-DAY 1 = 25 jan
+i'm taking a challenge to learn coding everyday so i'll do coding everyday and maintain strike
+
